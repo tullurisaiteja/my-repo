@@ -1,0 +1,1 @@
+this file is created in feature1 branch which defines featues of my app

@@ -1,1 +1,2 @@
 nitially i am in master branch this is the original file which was not edited this will commited in master branch itself
+now entered in to develop branch and modified file1.txt here and commited here also
